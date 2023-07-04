@@ -12,6 +12,7 @@ export default function DashBoard() {
         margin:"1rem",
       }}>
       <h1>Data Visualization Dashboard</h1>
+      <h5>(Please wait for few moment!! using free server so it may take some time to load the chart/graph)</h5>
       <BarGraph />
     </div>
   );
